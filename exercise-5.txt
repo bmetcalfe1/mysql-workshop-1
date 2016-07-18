@@ -1,0 +1,32 @@
+//Exercise 5
+
+Create table Account for database decodemtl_addressbook
+Create table AddressBook for database decodemtl_addressbook
+Create table Entry for database decodemtl_addressbook
+Create table Test for database decodemtl_addressbook
+
+CREATE TABLE decodemtl_addressbook.Account (
+    id INT AUTO_INCREMENT PRIMARY KEY
+);
+
+Query OK, 0 rows affected (0.01 sec)
+
+CREATE TABLE decodemtl_addressbook.AddressBook (
+    id INT AUTO_INCREMENT PRIMARY KEY
+);
+
+Query OK, 0 rows affected (0.01 sec)
+
+CREATE TABLE decodemtl_addressbook.Entry (
+    id INT AUTO_INCREMENT PRIMARY KEY
+);
+
+Query OK, 0 rows affected (0.01 sec)
+
+CREATE TABLE decodemtl_addressbook.Test (
+    id INT AUTO_INCREMENT PRIMARY KEY
+);
+
+Query OK, 0 rows affected (0.01 sec)
+
+

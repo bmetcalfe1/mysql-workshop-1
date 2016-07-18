@@ -1,0 +1,6 @@
+// Exercise 6
+
+Remove table Test for database decodemtl_addressbook
+
+mysql> DROP TABLE decodemtl_addressbook.Test;
+Query OK, 0 rows affected (0.02 sec)

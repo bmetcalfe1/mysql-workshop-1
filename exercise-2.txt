@@ -1,0 +1,11 @@
+// Create a database named decodemtl_test within MySQL
+
+CREATE DATABASE decodemtl_test;
+
+Query OK, 1 row affected (0.00 sec)
+
+//Create a database named decodemtl_addressbook within MySQL
+
+CREATE DATABASE decodemtl_addressbook;
+
+Query OK, 1 row affected (0.00 sec)
